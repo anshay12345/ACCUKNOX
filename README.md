@@ -8,7 +8,7 @@ This project is a social network API built with Django and Django Rest Framework
 - Send, accept, and reject friend requests
 - List friends
 - List pending friend requests
-- Search users by email and name
+- Search users by id
 
 ## Prerequisites
 
